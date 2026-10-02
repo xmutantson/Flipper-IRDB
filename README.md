@@ -27,3 +27,9 @@ When adding remotes to this repo, it is helpful to ensure your device name(s) fo
 8. Select `SD Card`, then navigate to the `infrared` folder by double-clicking its icon.
 9. Drag the .ir files you want on your Flipper from the File Explorer into the QFlipper File Manager.
 10. Disconnect the Flipper from the PC and have fun!
+
+## Fork contribution provenance
+
+The three 2022 BenQ W1070, Hitachi LE46H508 and Toshiba 43LF421U21 contributions
+have all 80 original payload records preserved upstream. See the
+[pinned provenance report and offline verification commands](docs/CONTRIBUTION_PROVENANCE.md).
